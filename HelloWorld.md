@@ -1,6 +1,6 @@
 ---
 title: "HelloWorld"
-author: "db"
+author: "David Butler"
 date: "`r Sys.Date()`"
 output: html_document
 ---
